@@ -1,5 +1,7 @@
 HELP.md
 .gradle
+.jsbeautifyrc
+package-lock.json
 build/
 node_modules/
 CHANGELOG.md
